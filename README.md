@@ -2,8 +2,8 @@
 
 <!-- 🔷 Banner Image -->
 <p align="center">
-<!-- 🔷 Custom Banner -->
-<img src="https://raw.githubusercontent.com/HarshaBhoge/HarshaBhoge/main/banner.png" width="100%" alt="Harsha Bhoge GitHub Banner">
+<img src="https://raw.githubusercontent.com/HarshaBhoge/HarshaBhoge/main/HarshaBhogeBanner.png" width="100%" alt="Harsha Bhoge GitHub Banner">
+
 
 
 </p>
