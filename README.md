@@ -20,10 +20,11 @@
 
 ---
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><!-- Gmail Badge -->
-<a href="mailto:harshabhoge04@gmail.com" target="_blank">
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&to=harshabhoge04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
 </a>
+
 
 <!-- CodeChef Badge -->
 <a href="https://www.codechef.com/users/codebunny_x" target="_blank">
