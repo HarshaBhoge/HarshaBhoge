@@ -20,7 +20,26 @@
 
 ---
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="harshabhoge04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/https://www.codechef.com/users/codebunny_x" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/harshabhoge16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/HarshaBhoge?t=2hJHGsYbUiK4DMPC1G1v4Q&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.hackerrank.com/profile/harshabhoge16421" target="_blank">
+<p align="left"><!-- Gmail Badge -->
+<a href="mailto:harshabhoge04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+
+<!-- CodeChef Badge -->
+<a href="https://www.codechef.com/users/codebunny_x" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/harshabhoge16" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+
+<!-- Twitter/X Badge -->
+<a href="https://x.com/HarshaBhoge?t=2hJHGsYbUiK4DMPC1G1v4Q&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+ <a href="https://www.hackerrank.com/profile/harshabhoge16421" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://leetcode.com/u/Harsha_Bhoge/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="28" style="margin-right: 4px"></a> <a href="https://www.geeksforgeeks.org/user/harshabhogf1zw/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" height="28" style="margin-right: 4px">
 </a>
